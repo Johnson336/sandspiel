@@ -1,2 +1,2 @@
-# badencounter
-Bad Encounter is a linear space shooter
+# Sandspiel
+Sandspiel is a sandbox simulator using OpenGL shaders
